@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @john-shaibu
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning front-end development
+- 👀 I’m a full-stack web developer from Nigeria 
+- 🔥 my majors are JavaScript, reactJs, python, php, django, flask, larvel
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me : twitter @johnnshaibu
 
